@@ -1,0 +1,19 @@
+[package]
+name = "cord"
+version = "0.0.0"
+description = "Canonical serialization format designed for security"
+edition = "2021"
+publish = true
+license = "Apache-2.0"
+repository = "https://github.com/backbone-hq/cord"
+authors = ["Backbone Authors <root@backbone.dev>"]
+keywords = ["security", "serialization", "cryptography", "marshalling", "canonicalization"]
+categories = ["encoding", "cryptography"]
+readme = "README.md"
+rust-version = "1.61.0"
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+integer-encoding = "3.0.3"
+chrono = "0.4"
+thiserror = "1.0.30"
