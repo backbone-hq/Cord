@@ -1,8 +1,8 @@
 # ![Cord](https://github.com/backbone-hq/cord/blob/master/media/cord.png?raw=true)
 
-[![GitHub Build Status](https://img.shields.io/github/actions/workflow/status/backbone-hq/cord/ci.yml?branch=master)](https://github.com/backbone-hq/cord/actions/workflows/ci.yml)
-[![GitHub License](https://img.shields.io/github/license/backbone-hq/cord)](https://github.com/backbone-hq/cord/blob/master/LICENSE.txt)
-[![crates.io](https://img.shields.io/crates/v/cord)](https://crates.io/crates/cord)
+![Build Status](https://img.shields.io/github/actions/workflow/status/backbone-hq/cord/ci.yml?branch=master)
+![GitHub License](https://img.shields.io/github/license/backbone-hq/cord)
+![crates.io](https://img.shields.io/crates/v/cord)
 ![Made by Backbone](https://img.shields.io/badge/made_by-Backbone-blue)
 
 Cord is a deterministic serialization format built in Rust, designed for security-sensitive applications where consistent and unambiguous binary representations are essential.
