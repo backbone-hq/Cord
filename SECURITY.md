@@ -7,6 +7,7 @@ It's critical that if a Cord vulnerability exists, impact is minimized.
 **Please refrain from reporting security vulnerabilities through public channels such as Github issues or discussions.**
 
 If you believe you've found a vulnerability, we'd appreciate if you responsibly disclose it by emailing [root@backbone.dev](mailto:root@backbone.dev). Try to be as explicit and detail-oriented as possible when describing how to reproduce the issue.
+
 Providing code snippets, error messages, screenshots and other auxiliary information will go a long way in helping us prepare a fix.
 
 ## 📢 Public Disclosure
